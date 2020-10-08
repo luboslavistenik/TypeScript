@@ -1,2 +1,2 @@
-const string = "Hello AppsLab2020!"
-console.log(string);
+const test: string = "Hello AppsLab2020!"
+console.log(test);
